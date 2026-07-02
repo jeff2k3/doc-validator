@@ -2,7 +2,8 @@
 
 ## Reporting a Vulnerability
 
-**Please do NOT report security vulnerabilities through public GitHub issues.**
+> [!WARNING]
+>**Please do NOT report security vulnerabilities through public GitHub issues.**
 
 Instead, use one of the following methods:
 
@@ -12,7 +13,7 @@ Instead, use one of the following methods:
 3. Fill in the details (version, description, steps to reproduce).
 
 ### Option 2: Email
-If you prefer, you can send an email to **security@seudominio.com** (or your personal email) with:
+If you prefer, you can send an email with:
 
 - Version of the library you are using.
 - A detailed description of the vulnerability (how to exploit, impact).
